@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/messages",
+	"name":        "kodicms_kohana/messages",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS messages plugin",
 	"homepage":    "http://www.kodicms.ru/",
